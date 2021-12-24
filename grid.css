@@ -1,0 +1,125 @@
+#display{
+    grid-row-start: 1;
+    grid-row-end: 1;
+    grid-column-start: 1;
+    grid-column-end: 6;
+}
+
+#one{
+    grid-row-start: 4;
+    grid-row-end: 4 ;
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+#two{
+    grid-row-start: 4;
+    grid-row-end: 4;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+#three{
+    grid-row-start: 4;
+    grid-row-end: 4;
+    grid-column-start: 3;
+    grid-column-end: 3;
+}
+
+#four{
+    grid-row-start: 3;
+    grid-row-end: 3;
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+#five{
+    grid-row-start: 3;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+#six{
+    grid-row-start: 3;
+    grid-row-end: 3;
+    grid-column-start: 3;
+    grid-column-end: 3;
+}
+
+#seven{
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 1;
+    grid-column-end: 1;
+}
+
+#eight{
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+#nine{
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 3;
+    grid-column-end: 3;
+}
+
+#zero{
+    grid-row-start: 5;
+    grid-row-end: 5;
+    grid-column-start: 2;
+    grid-column-end: 2;
+}
+
+#divide{
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 4;
+    grid-column-end: 4;
+}
+
+#multiply{
+    grid-row-start: 3;
+    grid-row-end: 3;
+    grid-column-start: 4;
+    grid-column-end: 4;
+}
+
+#subtract{
+    grid-row-start: 4;
+    grid-row-end: 4;
+    grid-column-start: 4;
+    grid-row-end: 4;
+}
+
+#sum{
+    grid-row-start: 5;
+    grid-row-end: 5;
+    grid-column-start: 4;
+    grid-column-end: 4;
+}
+
+#dot{
+    grid-row-start: 5;
+    grid-row-end: 5;
+    grid-column-start: 3;
+    grid-column-end: 3;
+}
+
+#equal{
+    grid-row-start: 4;
+    grid-row-end: 6;
+    grid-column-start: 5;
+    grid-column-end: 5;
+}
+
+#clear{
+    grid-row-start: 2;
+    grid-row-end: 2;
+    grid-column-start: 5;
+    grid-column-end: 5;
+}
